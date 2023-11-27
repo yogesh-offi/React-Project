@@ -1,0 +1,174 @@
+/* .out {
+    margin: 20px;
+    background-color: whitesmoke; 
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color:white;
+    border-radius: 8px;
+  }
+  
+.box1 {
+    padding: 15px;
+}
+.box2 {
+    padding: 15px;
+}
+.box3 {
+    padding: 15px;
+}
+.box4 {
+    width: 25%;
+}
+input[type="datetime-local"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color: white; 
+}
+select option {
+    background-color: white;
+    color: grey;
+}
+   */
+   /* product.css */
+
+.outsid{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    margin-top: 6px;
+    /* background-color:rgb(244, 217, 217); */
+    /* background-color: rgb(165, 160, 160); */
+    /* background-Color: #c2c2c2; */
+    /* background-color: rgb(217, 208, 208); */
+    background-color: rgb(255, 255, 255);
+    height: 550px;
+  }
+  
+  .hh1 {
+    color: #333;
+    padding-left:"20px"
+  }
+  
+  /* table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color:rgb(250, 234, 234);
+  } */
+/*   
+  .boxe1,
+  .boxe2,
+  .boxe3,
+  .boxe6,
+  .boxe5{
+    padding: 10px;
+    border: 0px solid #ddd;
+    padding-left: 160px;
+  }
+  
+  .boxe1,
+  .boxe2,
+  .boxe3,
+  .boxe4 {
+    padding: 15px;
+    padding-left: 160px;
+  }
+  .boxe5{
+      height: 50px;
+      width: 50px;
+  }
+  
+  .textfield {
+    width: 100%;
+  }
+  
+  .boxe4 {
+    width: 100%;
+    padding: 10px;
+  }
+  .wholepage{
+    background-color:rgb(214, 243, 243);
+    height: 620px;
+    padding-top: 30px;
+}
+.sub1{
+  height: 30px;
+  width: 30px;
+ padding-left: 225px;
+ padding-top: 40px;
+}
+   */
+   /* product.css */
+
+.wholepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color:rgb(214, 243, 243); */
+  background-image: url(../pictures/courierorder3.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.outsid {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 700px;
+  margin-left:40px;
+  padding-top: 60px;
+}
+
+.hh1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+}
+
+.boxe4 {
+  width: 100%;
+  padding: 8px;
+}
+
+.textfield {
+  width: 100%;
+}
+
+.sub1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}

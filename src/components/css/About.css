@@ -1,0 +1,108 @@
+.about-container {
+  position: relative;
+  background-color: #f9f9f9;
+  /* background-image: url(courierabout1.jpeg); */
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+  padding: 50px 20px;
+  text-align: center;
+  height: 520px;
+  border: 1px solid black;
+}
+
+.pattern-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 99%;
+  height: 500px;
+  /* background: url(courierorder1.webp) repeat; */
+  opacity: 0.0;
+  border: 1px solid black;
+}
+.aboutus{
+  font-weight:900;
+  color: black;
+}
+.aboutd{
+  font-weight: 600;
+  forced-color-adjust:auto;
+  color: black;
+}
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  color: #2c3e50;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+p {
+  color: #555;
+  font-size: 1.3em;
+  line-height: 1.6;
+}
+.owners {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  padding-top: 50px;
+}
+.owner {
+  text-align: center;
+  width: 30%;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  height: 300px;
+  /* background-color: rgb(209, 208, 208); */
+  border: 3px solid black;
+  color: black;
+
+}
+.owner:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}
+.owner img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.owner h2 {
+  margin: 15px 0 5px;
+  color: black;
+  font-size: 1.8em;
+}
+.owner p {
+  color: black;
+  margin-bottom: 15px;
+}
+.foun{
+  color: black;
+}
+.social-links{
+    padding-right: 80px;
+}
+#instagram{
+  height: 40px;
+  width: 40px;
+  color: rosybrown;
+}
+.insta{
+  margin-top: 40px;
+}
+#github{
+  height: 40px;
+  width: 40px;
+  
+}
+#linkedin{
+  height: 40px;
+  width: 40px;
+  color: steelblue;
+}

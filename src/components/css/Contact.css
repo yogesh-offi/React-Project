@@ -1,0 +1,78 @@
+.bodys{
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(247, 212, 217);
+    background-size: 100%;
+    margin: 0;
+    height: 650px;
+    margin-top: -19px;
+    padding-top: 10px;
+}
+
+.container {
+    background-color:rgb(224, 247, 247);
+    /* background-color: rgb(249, 189, 189); */
+    background-color: ivoryz;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top:10px;
+    height: 580px;
+  }
+  
+  .forms{
+    display: grid;
+    grid-gap: 20px;
+  }
+  
+  .conta{
+    text-align: center;
+    color: #333;
+  }
+  
+  .labelna{
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .inputs{
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+  }
+  
+  .buttonp{
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .buttonp:hover {
+    background-color: #2980b9;
+  }
+  .head{
+    /* color: rgb(197, 162, 116); */
+    color: rgb(69, 62, 122);
+    margin-left: 120px;
+    margin-top: -60px;
+    font-size: 30px;
+  }
+  .logos{
+    height: 100px;
+    width: 100px;
+    border: 0px solid white;
+    /* background-image: url(courier\ logo.jpeg); */
+    background-image: url(../pictures/courier\ logo.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  

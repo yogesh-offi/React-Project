@@ -1,0 +1,80 @@
+.outbox {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 120px;
+    /* background-color: black; */
+    background-color:rgb(244, 217, 217);
+    margin-left: 100px;
+
+  }
+  /* label {
+    display: block;
+    margin-bottom: 5px;
+  } */
+  #nameInput{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  #phoneInput{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  #emailInput{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  #passwordInput{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  #confirmPasswordInput{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #submit5{
+    display: block;
+    margin-bottom: 15px;
+    background-color: rgb(252, 158, 172);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .tot{
+    /* background-color:rgb(193, 239, 239); */
+    background-image: url(../pictures/couriersign.jpg);
+    height: 550px;
+    margin-top: -120px;
+    padding-bottom: 90px;
+    padding-top:140px;
+    background-size: 100%;
+  }
+  

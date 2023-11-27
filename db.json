@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "Name": "VENUPRASATH",
+      "PhoneNumber": "98434567890",
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "ConfirmPassword": "1234567890",
+      "id": 1
+    },
+    {
+      "Name": "vishal",
+      "PhoneNumber": "9876543012",
+      "Email": "727722eucs201@skcet.ac.in",
+      "Password": "vishal",
+      "ConfirmPassword": "vishal",
+      "id": 2
+    },
+    {
+      "Name": "sivakumar",
+      "PhoneNumber": "9182837465",
+      "Email": "727722eucs168@skcet.ac.in",
+      "Password": "sivakumar",
+      "ConfirmPassword": "sivakumar",
+      "id": 3
+    },
+    {
+      "Name": "yogesh",
+      "PhoneNumber": "9398427475",
+      "Email": "727722eucs207@skcet.ac.in",
+      "Password": "qwerty",
+      "ConfirmPassword": "qwerty",
+      "id": 4
+    },
+    {
+      "Name": "VENUPRASATH",
+      "PhoneNumber": "98434567890",
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "ConfirmPassword": "1234567890",
+      "id": 5
+    },
+    {
+      "Name": "VENUPRASATH",
+      "PhoneNumber": "98434567890",
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567",
+      "ConfirmPassword": "1234567",
+      "id": 6
+    },
+    {
+      "Name": "VENUPRASATH",
+      "PhoneNumber": "98434567890",
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "qwerty",
+      "ConfirmPassword": "qwerty",
+      "id": 7
+    }
+  ],
+  "profiledata": [
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "id": 1
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "id": 2
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "id": 3
+    },
+    {
+      "Email": "727722eucs209@skcet.ac.in",
+      "Password": "sdfgkj",
+      "id": 4
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "tfgybhnjmk,l",
+      "id": 5
+    },
+    {
+      "Email": "subs@gmail.com",
+      "Password": "fghjkxcfgh",
+      "id": 6
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "qwerty",
+      "id": 7
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "id": 8
+    },
+    {
+      "Email": "727722eucs196@skcet.ac.in",
+      "Password": "1234567890",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
